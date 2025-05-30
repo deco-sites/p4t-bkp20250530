@@ -1,0 +1,43 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Serviços",
+        "url": "#"
+      },
+      {
+        "label": "Sobre",
+        "url": "#"
+      },
+      {
+        "label": "Parceiros",
+        "url": "#"
+      },
+      {
+        "label": "Consultoria",
+        "url": "#"
+      },
+      {
+        "label": "Profissionais Especializados",
+        "url": "#"
+      },
+      {
+        "label": "Carreiras",
+        "url": "/careers#form-careers",
+        "toggleIcon": true
+      }
+    ],
+    "button": {
+      "id": "Button-Contact",
+      "href": "#",
+      "text": "Contato",
+      "src": "https://assets.decocache.com/people4tech/b185209d-54ab-4b3b-83c2-d66a3d083e73/Icon.svg",
+      "alt": "contact earphone"
+    }
+  },
+  "logo": {
+    "src": "https://assets.decocache.com/people4tech/2fc5a0c1-06b4-43bd-8e52-b0683f6dd955/Frame-482134.svg",
+    "alt": "people4tech"
+  }
+}

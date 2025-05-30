@@ -1,0 +1,621 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/HeroBanner.tsx",
+        "title": "<p><span>Conectando pessoas através da </span><span style=\"color: #1bf081\">&lt;</span><span>tecnologia</span><span style=\"color: #1bf081\">&gt;</span></p>",
+        "image": [
+          "https://assets.decocache.com/people4tech/46fabf87-39a6-43d0-b61f-251c703d2dec/image.svg",
+          "https://assets.decocache.com/people4tech/46fabf87-39a6-43d0-b61f-251c703d2dec/image.svg",
+          "https://assets.decocache.com/people4tech/46fabf87-39a6-43d0-b61f-251c703d2dec/image.svg"
+        ],
+        "imageLeft": [
+          "https://assets.decocache.com/people4tech/f3536121-4193-4d03-86bd-25f559d33cb7/image-(5).svg",
+          "https://assets.decocache.com/people4tech/84f62872-e7e3-499f-96ce-2724328d5d18/image-(1).svg",
+          "https://assets.decocache.com/people4tech/88afd275-43d7-418a-bc7c-118f693a3f49/image-(2).svg"
+        ],
+        "imageRight": [
+          "https://assets.decocache.com/people4tech/21dbece0-7210-4390-b55c-9e3fe5552366/image-(3).svg",
+          "https://assets.decocache.com/people4tech/46fabf87-39a6-43d0-b61f-251c703d2dec/image.svg",
+          "https://assets.decocache.com/people4tech/c640ef79-8738-4cb5-90b3-4240b59aa995/image-(4).svg"
+        ],
+        "cta": [
+          {
+            "id": "header",
+            "href": "#",
+            "outline": false,
+            "text": "Saiba Mais",
+            "toggleIcon": true
+          },
+          {
+            "text": "Entre em contato",
+            "id": "Entre em contato",
+            "href": "#",
+            "outline": true
+          }
+        ],
+        "description": "A People4Tech é uma empresa especializada em tecnologia da informação que oferece serviços de desenvolvimento de sistemas, outsourcing, alocação de squads ágeis e consultoria."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ServiceCards.tsx",
+        "images": [
+          {
+            "src": "https://assets.decocache.com/people4tech/a7c0e2b2-6766-4a38-b433-a22a52e593e4/Card.png",
+            "alt": "Desenvolvimento",
+            "title": "Desenvolvimento",
+            "description": "O componente Card organiza informações de forma clara e visualmente agradável.",
+            "linkLabel": "Saiba Mais",
+            "href": "#",
+            "icon": "https://assets.decocache.com/people4tech/304c29e2-db91-4ec8-97f1-9c333f242cf0/code-block.svg"
+          },
+          {
+            "src": "https://assets.decocache.com/people4tech/8746a92f-a585-4df1-b953-56a4b5c74418/Card-(3).png",
+            "alt": "Outsourcing",
+            "title": "Outsourcing",
+            "description": "O componente Card organiza informações de forma clara e visualmente agradável.",
+            "linkLabel": "Saiba Mais",
+            "href": "#",
+            "icon": "https://assets.decocache.com/people4tech/0f713a10-0571-409a-a841-5eb1c8c04eda/Vector.png"
+          },
+          {
+            "src": "https://assets.decocache.com/people4tech/02c921d6-38ad-4f67-978f-69f9d3a49a86/Card-(4).png",
+            "alt": "Alocações",
+            "title": "Alocações",
+            "description": "O componente Card organiza informações de forma clara e visualmente agradável.",
+            "linkLabel": "Saiba Mais",
+            "href": "#",
+            "icon": "https://assets.decocache.com/people4tech/da387f15-f199-4eaa-b84c-582c62590bcb/Vector-(1).png"
+          },
+          {
+            "src": "https://assets.decocache.com/people4tech/02c921d6-38ad-4f67-978f-69f9d3a49a86/Card-(4).png",
+            "alt": "Alocações",
+            "title": "Alocações",
+            "description": "O componente Card organiza informações de forma clara e visualmente agradável.",
+            "linkLabel": "Saiba Mais",
+            "href": "#",
+            "icon": "https://assets.decocache.com/people4tech/da387f15-f199-4eaa-b84c-582c62590bcb/Vector-(1).png"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ParallaxCard.tsx",
+        "title": "Tecnologia na velocidade do mercado",
+        "backgroundImage": {
+          "src": "https://assets.decocache.com/people4tech/0ec9a0b1-d322-4d48-9d37-e2f342b8f8ea/Quem-Somos-Section-(1).svg",
+          "alt": "hero container"
+        },
+        "card": [
+          {
+            "image": {
+              "image": "https://assets.decocache.com/people4tech/4a56f117-ba0c-4613-a519-3d6b9eec42a1/Image-Card.svg",
+              "alt": "Especialistas em TI",
+              "src": "https://assets.decocache.com/people4tech/4a16a035-2a95-4de9-8219-16b46844cca9/Image-Card.svg"
+            },
+            "fixedLabel": "Especialistas em TI",
+            "title": "Especialistas em TI",
+            "link": {
+              "linkLabel": "Leia mais",
+              "href": "#"
+            },
+            "description": "Nosso time é formado por profissionais apaixonados por tecnologia, preparados para desenvolver soluções que impulsionam negócios."
+          },
+          {
+            "image": {
+              "image": "https://assets.decocache.com/people4tech/c6140c6f-1d77-4147-ad9e-2e8c88140b73/Image-Card-(2).svg",
+              "alt": "Especialistas em TI",
+              "src": "https://assets.decocache.com/people4tech/c6140c6f-1d77-4147-ad9e-2e8c88140b73/Image-Card-(2).svg"
+            },
+            "fixedLabel": "Consultoria estratégica",
+            "title": "Consultoria estratégica",
+            "description": "Nosso time é formado por profissionais apaixonados por tecnologia, preparados para desenvolver soluções que impulsionam negócios.",
+            "link": {
+              "linkLabel": "Leia mais",
+              "href": "#"
+            }
+          },
+          {
+            "image": {
+              "image": "https://assets.decocache.com/people4tech/5cb63b00-2dcc-4739-9ef0-1c8d2ea438b9/Image-Card-(1).svg",
+              "alt": "Squads ágeis",
+              "src": "https://assets.decocache.com/people4tech/5cb63b00-2dcc-4739-9ef0-1c8d2ea438b9/Image-Card-(1).svg"
+            },
+            "fixedLabel": "Squads ágeis",
+            "link": {
+              "href": "#",
+              "linkLabel": "Leia mais"
+            },
+            "description": "Nosso time é formado por profissionais apaixonados por tecnologia, preparados para desenvolver soluções que impulsionam negócios.",
+            "title": "Squads ágeis"
+          }
+        ],
+        "disableSpacing": {
+          "bottom": true,
+          "top": true
+        }
+      }
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "image": "https://assets.decocache.com/people4tech/6543bce8-efb6-48ec-9c8e-c9b98bb6ba9c/image.png",
+      "title": "Consultoria",
+      "description": "A equipe de desenvolvimento de sistemas da People4Tech é composta por profissionais altamente capacitados e experientes, que trabalham com as mais modernas tecnologias para criar soluções personalizadas que atendam às necessidades específicas de cada cliente.",
+      "disableSpacing": {
+        "bottom": true,
+        "top": true
+      },
+      "cta": [
+        {
+          "style": "Ghost",
+          "id": "button consultoria",
+          "href": "#",
+          "text": "Saiba Mais"
+        }
+      ],
+      "alt": "Consultoria"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Carousel.tsx",
+        "title": "Nossos parceiros",
+        "images": [
+          {
+            "0": "h",
+            "1": "t",
+            "2": "t",
+            "3": "p",
+            "4": "s",
+            "5": ":",
+            "6": "/",
+            "7": "/",
+            "8": "a",
+            "9": "s",
+            "10": "s",
+            "11": "e",
+            "12": "t",
+            "13": "s",
+            "14": ".",
+            "15": "d",
+            "16": "e",
+            "17": "c",
+            "18": "o",
+            "19": "c",
+            "20": "a",
+            "21": "c",
+            "22": "h",
+            "23": "e",
+            "24": ".",
+            "25": "c",
+            "26": "o",
+            "27": "m",
+            "28": "/",
+            "29": "p",
+            "30": "e",
+            "31": "o",
+            "32": "p",
+            "33": "l",
+            "34": "e",
+            "35": "4",
+            "36": "t",
+            "37": "e",
+            "38": "c",
+            "39": "h",
+            "40": "/",
+            "41": "4",
+            "42": "a",
+            "43": "1",
+            "44": "6",
+            "45": "a",
+            "46": "0",
+            "47": "3",
+            "48": "5",
+            "49": "-",
+            "50": "2",
+            "51": "a",
+            "52": "9",
+            "53": "5",
+            "54": "-",
+            "55": "4",
+            "56": "d",
+            "57": "e",
+            "58": "9",
+            "59": "-",
+            "60": "8",
+            "61": "2",
+            "62": "1",
+            "63": "9",
+            "64": "-",
+            "65": "1",
+            "66": "6",
+            "67": "b",
+            "68": "4",
+            "69": "6",
+            "70": "8",
+            "71": "4",
+            "72": "4",
+            "73": "c",
+            "74": "c",
+            "75": "a",
+            "76": "9",
+            "77": "/",
+            "78": "I",
+            "79": "m",
+            "80": "a",
+            "81": "g",
+            "82": "e",
+            "83": "-",
+            "84": "C",
+            "85": "a",
+            "86": "r",
+            "87": "d",
+            "88": ".",
+            "89": "s",
+            "90": "v",
+            "91": "g",
+            "src": "https://assets.decocache.com/people4tech/8ef16f6f-7c8d-4ff3-839a-cc542af45641/Partner-Logo.svg",
+            "alt": "AWS",
+            "title": "Título",
+            "description": "Este componente aceita 100 caracteres; texto que passarem do limitee serão truncados automaticamente.",
+            "linkLabel": "Leia mais",
+            "href": "#"
+          },
+          {
+            "src": "https://assets.decocache.com/people4tech/f4a9f2fa-dc93-4696-b1a4-51b69301ba0d/Partner-Logo-(1).svg",
+            "alt": "Azure",
+            "title": "Título",
+            "description": "Este componente aceita 100 caracteres; texto que passarem do limitee serão truncados automaticamente.",
+            "linkLabel": "Leia mais",
+            "href": "#"
+          },
+          {
+            "src": "https://assets.decocache.com/people4tech/f5cf091e-557e-477b-97b9-dfad96f24e6d/Partner-Logo-(2).svg",
+            "alt": "Google Cloud",
+            "title": "Título",
+            "description": "Este componente aceita 100 caracteres; texto que passarem do limitee serão truncados automaticamente.",
+            "linkLabel": "Leia mais",
+            "href": "#"
+          },
+          {
+            "src": "https://assets.decocache.com/people4tech/628859fa-61bf-47f9-a63f-62c024f21c38/Partner-Logo-(3).svg",
+            "alt": "IBM",
+            "description": "Este componente aceita 100 caracteres; texto que passarem do limitee serão truncados automaticamente.",
+            "linkLabel": "Leia mais",
+            "title": "Título",
+            "href": "#"
+          },
+          {
+            "src": "https://assets.decocache.com/people4tech/47321757-1824-4deb-9a83-2124dc2fc8b9/Partner-Logo-(4).svg",
+            "alt": "Microsoft",
+            "description": "Este componente aceita 100 caracteres; texto que passarem do limitee serão truncados automaticamente.",
+            "linkLabel": "Leia mais",
+            "href": "#",
+            "title": "Título"
+          },
+          {
+            "0": "h",
+            "1": "t",
+            "2": "t",
+            "3": "p",
+            "4": "s",
+            "5": ":",
+            "6": "/",
+            "7": "/",
+            "8": "a",
+            "9": "s",
+            "10": "s",
+            "11": "e",
+            "12": "t",
+            "13": "s",
+            "14": ".",
+            "15": "d",
+            "16": "e",
+            "17": "c",
+            "18": "o",
+            "19": "c",
+            "20": "a",
+            "21": "c",
+            "22": "h",
+            "23": "e",
+            "24": ".",
+            "25": "c",
+            "26": "o",
+            "27": "m",
+            "28": "/",
+            "29": "p",
+            "30": "e",
+            "31": "o",
+            "32": "p",
+            "33": "l",
+            "34": "e",
+            "35": "4",
+            "36": "t",
+            "37": "e",
+            "38": "c",
+            "39": "h",
+            "40": "/",
+            "41": "4",
+            "42": "a",
+            "43": "1",
+            "44": "6",
+            "45": "a",
+            "46": "0",
+            "47": "3",
+            "48": "5",
+            "49": "-",
+            "50": "2",
+            "51": "a",
+            "52": "9",
+            "53": "5",
+            "54": "-",
+            "55": "4",
+            "56": "d",
+            "57": "e",
+            "58": "9",
+            "59": "-",
+            "60": "8",
+            "61": "2",
+            "62": "1",
+            "63": "9",
+            "64": "-",
+            "65": "1",
+            "66": "6",
+            "67": "b",
+            "68": "4",
+            "69": "6",
+            "70": "8",
+            "71": "4",
+            "72": "4",
+            "73": "c",
+            "74": "c",
+            "75": "a",
+            "76": "9",
+            "77": "/",
+            "78": "I",
+            "79": "m",
+            "80": "a",
+            "81": "g",
+            "82": "e",
+            "83": "-",
+            "84": "C",
+            "85": "a",
+            "86": "r",
+            "87": "d",
+            "88": ".",
+            "89": "s",
+            "90": "v",
+            "91": "g",
+            "src": "https://assets.decocache.com/people4tech/8ef16f6f-7c8d-4ff3-839a-cc542af45641/Partner-Logo.svg",
+            "alt": "AWS",
+            "description": "Este componente aceita 100 caracteres; texto que passarem do limitee serão truncados automaticamente.",
+            "linkLabel": "Leia mais",
+            "href": "#",
+            "title": "Título"
+          }
+        ],
+        "arrowColor": "blue",
+        "dotColor": "blue",
+        "id": "1"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Accordion-hero.tsx",
+        "accordionText": {
+          "src": "https://assets.decocache.com/people4tech/93ca0a8c-2a1e-45e4-a33b-79691f2ecae8/1.png",
+          "alt": "People",
+          "title": "Profissionais Especializados",
+          "description": "Com competências técnicas validadas e uma forte vontade de entregar, estamos prontos para atender às suas necessidades."
+        },
+        "questions": [
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          },
+          {
+            "title": "Accordion Title",
+            "answer": "O componente accordion é utilizado para organizar e exibir conteúdos de forma colapsável, permitindo que o usuário expanda ou oculte seções conforme necessário. Ideal para economizar espaço em interfaces com muitas informações, ele melhora a experiência do usuário ao facilitar a navegação e manter o layout limpo e intuitivo.",
+            "src": "https://assets.decocache.com/people4tech/7d59ced4-1d2d-4eb6-b1ef-4a49c0de4131/file-code-line.svg",
+            "alt": "Accordion",
+            "cta": {
+              "id": "Accordion button",
+              "href": "#",
+              "text": "Button label"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Form.tsx",
+        "accordionText": {
+          "src": "https://assets.decocache.com/people4tech/93ca0a8c-2a1e-45e4-a33b-79691f2ecae8/1.png",
+          "alt": "teste",
+          "title": "title",
+          "description": "descrição"
+        },
+        "image": "https://assets.decocache.com/people4tech/93ca0a8c-2a1e-45e4-a33b-79691f2ecae8/1.png",
+        "privacyPolicy": "polituca",
+        "contactType": "Comercial",
+        "backgroundImage": "https://assets.decocache.com/people4tech/27456cd5-c565-43ff-aba3-bb82b7adbaa1/WhatsApp-Video-2025-05-18-at-12.19.28-AM.gif",
+        "background": {
+          "src": "https://assets.decocache.com/people4tech/037080c9-fea2-4c1f-ae07-e06b061a8d3c/Contact-Section-(4).png",
+          "alt": "people4Tech"
+        },
+        "form": {
+          "title": "Preencha o formulário",
+          "contactType": [
+            "Comercial",
+            "RH"
+          ],
+          "contactTypeSelected": "o que é isso?",
+          "formCareers": [
+            {
+              "type": "text",
+              "label": "Nome",
+              "placeholder": "Seu nome"
+            },
+            {
+              "type": "email",
+              "label": "E-mail",
+              "placeholder": "Seu melhor e-mail"
+            }
+          ],
+          "message": {
+            "placeholder": "Escreva sua mensagem ou pergunta",
+            "value": "Escreva sua mensagem ou pergunta",
+            "label": "Mensagem ",
+            "type": "text"
+          },
+          "titleContactType": "Tipo de contato",
+          "privacyPolicyText": "Ao enviar seus dados, você autoriza que a people4tech entre em contato e declara estar ciente da",
+          "privacyPolicyTextURLLabel": "Política de Privacidade",
+          "privacyPolicyTextURL": "#",
+          "submite": "Enviar",
+          "yourdata": "Seus dados estão seguros!"
+        },
+        "description": {
+          "src": "https://assets.decocache.com/people4tech/f6b60327-5b96-47f2-aee1-e6f0a34098c0/1.svg",
+          "alt": "Central de atendimento",
+          "title": "Central de atendimento",
+          "description": "Entre em contato para saber mais sobre nossa consultoria e como podemos ajudar a sua empresa com tecnologia.",
+          "number": "(31) 99274-7508",
+          "hrefNumber": "(31) 99274-7508"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}

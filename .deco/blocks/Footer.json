@@ -1,0 +1,106 @@
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "title": "teste",
+  "contactInfo": [
+    {
+      "label": "testee"
+    },
+    {
+      "label": "tesfoi"
+    },
+    {
+      "label": "contato@people4tech.com.br"
+    }
+  ],
+  "newsletter": {
+    "CTANewsletter": {
+      "alt": "arrow",
+      "src": "https://assets.decocache.com/people4tech/b9c43da7-7499-4aa6-8c8d-b234048fe0e7/Icon-(1).svg",
+      "href": "#",
+      "text": "Assinar",
+      "outline": false,
+      "id": "CTA Newsletter"
+    },
+    "placeholder": "Insira seu melhor e-email",
+    "title": "Assine nossa newsletter"
+  },
+  "copyrightText": "© 2025 People4Tech. Todos os direitos reservados.",
+  "services": [
+    {
+      "label": "Serviços",
+      "iconToggle": false
+    },
+    {
+      "label": "Consultoria"
+    },
+    {
+      "label": "Sobre"
+    },
+    {
+      "label": "Blog",
+      "iconToggle": true
+    },
+    {
+      "label": "Parceiros"
+    },
+    {
+      "label": "Carreiras",
+      "iconToggle": true
+    }
+  ],
+  "logo": {
+    "url": "https://assets.decocache.com/people4tech/744730c8-87cf-44cb-bd98-6e842448b194/Logo.png",
+    "alt": "People4Tech"
+  },
+  "contact": "contato@people4tech.com.br",
+  "background": {
+    "url": "https://assets.decocache.com/people4tech/3e46a7bf-6bea-4238-9dd9-ab6e597c20ad/Vector.png",
+    "alt": "people4Tech",
+    "href": "#"
+  },
+  "socialMediaIcons": [
+    {
+      "href": "#",
+      "url": "https://assets.decocache.com/people4tech/7d1f13b8-475e-49a8-bb78-324cea54bac0/linkedin-box-fill.svg",
+      "alt": "Linkedin"
+    },
+    {
+      "url": "https://assets.decocache.com/people4tech/1ca409a3-b10d-4d9b-9afb-75c81e92a4c9/social-facebook.svg",
+      "href": "#",
+      "alt": "Facebook"
+    },
+    {
+      "url": "https://assets.decocache.com/people4tech/bd2bc366-c1db-4bc6-95ce-cff9ca23002d/social-instagram.svg",
+      "href": "#",
+      "alt": "Instagram"
+    },
+    {
+      "url": "https://assets.decocache.com/people4tech/3b4f3121-44e2-4005-97d5-d072c05ca07f/youtube-fill.svg",
+      "alt": "youtube",
+      "href": "#"
+    },
+    {
+      "url": "https://assets.decocache.com/people4tech/acbd07a3-8f5b-47f2-921a-5a89270a60ff/tiktok-fill.svg",
+      "href": "#",
+      "alt": "Tiktok"
+    },
+    {
+      "url": "https://assets.decocache.com/people4tech/b8cc73ad-f672-4072-9f44-63118e17266d/twitter-x-line.svg",
+      "href": "#",
+      "alt": "x"
+    },
+    {
+      "url": "https://assets.decocache.com/people4tech/65e2275a-426a-4539-bd8c-a4295f860859/social-whatsapp.svg",
+      "href": "#",
+      "alt": "Whatsapp"
+    }
+  ],
+  "address": [
+    {
+      "address": "Av. Getúlio Vargas, 668 - Andar S - Sala 6 Savassi - Belo Horizonte - MG - 30112-021"
+    },
+    {
+      "address": "R. Bernardo Guimarães, 245 Funcionários - Belo Horizonte - MG -  30140-080"
+    }
+  ]
+}

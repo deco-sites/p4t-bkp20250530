@@ -1,0 +1,215 @@
+{
+  "name": "Careers",
+  "path": "/careers",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/careers/Careers.tsx",
+        "jobs": [
+          {
+            "title": "Analytics Engineer Senior",
+            "address": "São Paulo, Brasil",
+            "id": "1",
+            "responsibilities": [
+              "Liderar projetos de dados com autonomia, desde a definição de requisitos até a modelagem e disponibilização dos dados",
+              "Criar pipelines de dados, desde a ingestão até o monitoramento e otimização",
+              "Contribuir com a evolução de ferramentas e processos da stack de dados",
+              "Traduzir desafios de negócio em soluções técnicas robustas",
+              "Negociar estratégias com stakeholders técnicos e não técnicos",
+              "Apoiar o desenvolvimento de pessoas do time e promover a alfabetização em dados na empresa"
+            ],
+            "about": "A People4Tech está em busca de uma pessoa Analytics Engineer Sênior para atuar em uma das maiores plataformas digitais da América Latina. Você fará parte de um time técnico que conecta as necessidades de negócio à plataforma de dados, garantindo qualidade, performance e governança. Esta é uma oportunidade para profissionais que dominam ambientes de dados em larga escala e querem gerar impacto real em produtos usados por milhões de pessoas.",
+            "requiredSkills": [
+              "Sólida experiência em engenharia de dados e big data",
+              "Domínio em SQL para resolver problemas complexos e realizar modelagem de dados",
+              "Experiência na criação e manutenção de pipelines de dados",
+              "Boa bagagem em linguagens como Python, R ou Scala",
+              "Habilidade para atuar com diferentes áreas e comunicar soluções de forma clara"
+            ],
+            "niceToHave": [
+              "Conhecimento em boas práticas de engenharia de software (documentação, testes, código limpo)",
+              "Experiência em modelagem de banco de dados para fins analíticos (Data Lake, Data Warehouse, etc.)",
+              "Familiaridade com métricas de negócio e estruturas como KPIs e OKRs",
+              "Inglês avançado (nível B2 ou superior, CEFR)"
+            ],
+            "location": "São Paulo, Brazil"
+          },
+          {
+            "id": "1",
+            "title": "Senior Brand Designer",
+            "address": "São Paulo, Brasil",
+            "about": "A People4Tech está em busca de uma pessoa Analytics Engineer Sênior para atuar em uma das maiores plataformas digitais da América Latina. Você fará parte de um time técnico que conecta as necessidades de negócio à plataforma de dados, garantindo qualidade, performance e governança. Esta é uma oportunidade para profissionais que dominam ambientes de dados em larga escala e querem gerar impacto real em produtos usados por milhões de pessoas.",
+            "responsibilities": [
+              "Liderar projetos de dados com autonomia, desde a definição de requisitos até a modelagem e disponibilização dos dados",
+              "Criar pipelines de dados, desde a ingestão até o monitoramento e otimização",
+              "Contribuir com a evolução de ferramentas e processos da stack de dados",
+              "Traduzir desafios de negócio em soluções técnicas robustas",
+              "Negociar estratégias com stakeholders técnicos e não técnicos",
+              "Apoiar o desenvolvimento de pessoas do time e promover a alfabetização em dados na empresa"
+            ],
+            "requiredSkills": [
+              "Sólida experiência em engenharia de dados e big data",
+              "Domínio em SQL para resolver problemas complexos e realizar modelagem de dados",
+              "Experiência na criação e manutenção de pipelines de dados",
+              "Boa bagagem em linguagens como Python, R ou Scala",
+              "Habilidade para atuar com diferentes áreas e comunicar soluções de forma clara"
+            ],
+            "niceToHave": [
+              "Conhecimento em boas práticas de engenharia de software (documentação, testes, código limpo)",
+              "Experiência em modelagem de banco de dados para fins analíticos (Data Lake, Data Warehouse, etc.)",
+              "Familiaridade com métricas de negócio e estruturas como KPIs e OKRs",
+              "Inglês avançado (nível B2 ou superior, CEFR)"
+            ],
+            "location": "São Paulo, Brazil"
+          },
+          {
+            "id": "1",
+            "title": "Business Analyst",
+            "address": "São Paulo, Brasil",
+            "about": "A People4Tech está em busca de uma pessoa Analytics Engineer Sênior para atuar em uma das maiores plataformas digitais da América Latina. Você fará parte de um time técnico que conecta as necessidades de negócio à plataforma de dados, garantindo qualidade, performance e governança. Esta é uma oportunidade para profissionais que dominam ambientes de dados em larga escala e querem gerar impacto real em produtos usados por milhões de pessoas.",
+            "responsibilities": [
+              "Liderar projetos de dados com autonomia, desde a definição de requisitos até a modelagem e disponibilização dos dados",
+              "Criar pipelines de dados, desde a ingestão até o monitoramento e otimização",
+              "Contribuir com a evolução de ferramentas e processos da stack de dados",
+              "Traduzir desafios de negócio em soluções técnicas robustas",
+              "Negociar estratégias com stakeholders técnicos e não técnicos",
+              "Apoiar o desenvolvimento de pessoas do time e promover a alfabetização em dados na empresa"
+            ],
+            "requiredSkills": [
+              "Sólida experiência em engenharia de dados e big data",
+              "Domínio em SQL para resolver problemas complexos e realizar modelagem de dados",
+              "Experiência na criação e manutenção de pipelines de dados",
+              "Boa bagagem em linguagens como Python, R ou Scala",
+              "Habilidade para atuar com diferentes áreas e comunicar soluções de forma clara"
+            ],
+            "niceToHave": [
+              "Conhecimento em boas práticas de engenharia de software (documentação, testes, código limpo)",
+              "Experiência em modelagem de banco de dados para fins analíticos (Data Lake, Data Warehouse, etc.)",
+              "Familiaridade com métricas de negócio e estruturas como KPIs e OKRs",
+              "Inglês avançado (nível B2 ou superior, CEFR)"
+            ],
+            "location": "São Paulo, Brazil"
+          },
+          {
+            "id": "1",
+            "title": "ALM Senior Analyst",
+            "address": "São Paulo, Brasil",
+            "about": "A People4Tech está em busca de uma pessoa Analytics Engineer Sênior para atuar em uma das maiores plataformas digitais da América Latina. Você fará parte de um time técnico que conecta as necessidades de negócio à plataforma de dados, garantindo qualidade, performance e governança. Esta é uma oportunidade para profissionais que dominam ambientes de dados em larga escala e querem gerar impacto real em produtos usados por milhões de pessoas.",
+            "responsibilities": [
+              "Liderar projetos de dados com autonomia, desde a definição de requisitos até a modelagem e disponibilização dos dados",
+              "Criar pipelines de dados, desde a ingestão até o monitoramento e otimização",
+              "Contribuir com a evolução de ferramentas e processos da stack de dados",
+              "Traduzir desafios de negócio em soluções técnicas robustas",
+              "Negociar estratégias com stakeholders técnicos e não técnicos",
+              "Apoiar o desenvolvimento de pessoas do time e promover a alfabetização em dados na empresa"
+            ],
+            "requiredSkills": [
+              "Sólida experiência em engenharia de dados e big data",
+              "Domínio em SQL para resolver problemas complexos e realizar modelagem de dados",
+              "Experiência na criação e manutenção de pipelines de dados",
+              "Boa bagagem em linguagens como Python, R ou Scala",
+              "Habilidade para atuar com diferentes áreas e comunicar soluções de forma clara"
+            ],
+            "niceToHave": [
+              "Conhecimento em boas práticas de engenharia de software (documentação, testes, código limpo)",
+              "Experiência em modelagem de banco de dados para fins analíticos (Data Lake, Data Warehouse, etc.)",
+              "Familiaridade com métricas de negócio e estruturas como KPIs e OKRs",
+              "Inglês avançado (nível B2 ou superior, CEFR)"
+            ],
+            "location": "São Paulo, Brazil"
+          }
+        ],
+        "title": "Vagas",
+        "fild": {
+          "title": "<p><span>Candidatar a esta vaga</span></p>",
+          "buttonText": "Enviar Inscrição",
+          "inputValue": [
+            {
+              "type": "text",
+              "label": "Primeiro nome",
+              "placeholder": "João"
+            }
+          ]
+        },
+        "FormCareers": {},
+        "formCareers": {
+          "inputValue": [
+            {
+              "type": "text",
+              "label": "Primeiro nome",
+              "placeholder": "João"
+            },
+            {
+              "type": "text",
+              "label": "Sobrenome",
+              "placeholder": "Neto"
+            },
+            {
+              "type": "email",
+              "label": "E-mail",
+              "placeholder": "joao@gmail.com"
+            },
+            {
+              "type": "tel",
+              "label": "Telefone",
+              "placeholder": "(11) 98765-4321"
+            },
+            {
+              "type": "text",
+              "label": "Localização (Cidade)",
+              "placeholder": "São Paulo"
+            }
+          ],
+          "title": "Candidatar a esta vaga",
+          "buttonText": "botão text",
+          "subtitle": "subi ters",
+          "attachText": "Anexar Currículo",
+          "submitText": "Enviar Inscrição"
+        },
+        "subtitle": "subit",
+        "searchText": {
+          "title": "Faça parte da transformação digital",
+          "subtitle": "Vagas para profissionais que querem impactar com tecnologia de verdade",
+          "placeholder": "Encontre sua oportunidade"
+        },
+        "greenBox": {
+          "title": "Faça parte do nosso banco de talentos!",
+          "subtitle": "Cadastre seu currículo clicando no link abaixo",
+          "ulrLabel": "Cadastrar currículo"
+        },
+        "vacancyTexts": {
+          "apply": "deu certo? aplly",
+          "requiredSkills": "requer",
+          "requiredSkillsPrerequisites": "text",
+          "niceToHave": "preciosa ter"
+        },
+        "vacancyTitle": {
+          "apply": "Aplicar",
+          "challenge": "Sobre o desafio",
+          "yourRole": "Seu papel será",
+          "requiredSkills": "O que esperamos de você",
+          "requiredSkillsPrerequisites": "Pré-requisitos:",
+          "niceToHave": "Pré-requisitos:",
+          "return": "Voltar"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
